@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-label="Panel 29N: what each party proposes, with sources">
+<rect width="1200" height="360" fill="#F7F3EC"/>
+<g fill="none" stroke="#BE5A3C" stroke-opacity=".25"><circle cx="1010" cy="180" r="70"/><circle cx="1010" cy="180" r="120"/><circle cx="1010" cy="180" r="170"/><circle cx="1010" cy="180" r="220"/></g>
+<text x="64" y="100" font-family="Helvetica Neue, Arial, sans-serif" font-size="20" letter-spacing="3" fill="#6F6154">SPANISH GENERAL ELECTION · 29 NOVEMBER 2026</text>
+<text x="64" y="200" font-family="Helvetica Neue, Arial, sans-serif" font-weight="700" font-size="84" fill="#3E1D26">Panel 29N</text>
+<text x="64" y="258" font-family="Helvetica Neue, Arial, sans-serif" font-size="30" fill="#3E1D26">What each party proposes, linked to its source.</text>
+<rect x="64" y="290" width="120" height="6" rx="3" fill="#BE5A3C"/>
+</svg>
